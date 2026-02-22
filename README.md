@@ -10,6 +10,6 @@ git add <it adds the new file or changes to get staged or ready to get commited>
 
 git commit -m "comments"<this commits the changes to origin main with comment added to keep track what we actually changed>
 
-git push <after commiting we cant see the changes that we have done locally so we push them to remote else you can type git status to check where u will find that we are ahead of origin main of what changes we did>
+git push origin main<after commiting we cant see the changes that we have done locally so we push them to remote else you can type git status to check where u will find that we are ahead of origin main of what changes we did>
 
 Author -Anirban Samanta
